@@ -9,10 +9,6 @@ It lets users enter text or a URL and instantly generates a QR code using the fr
 - Input validation with a **shake animation** when the field is empty.
 - Smooth animation when showing the generated QR code.
 
-## 🖼️ Preview
-![QR Code Generator Screenshot](screenshot.png)  
-*(Add your own screenshot as `screenshot.png` in the repo)*
-
 ## 🛠️ Technologies Used
 - **HTML5** – structure  
 - **CSS3** – styling and animations  
